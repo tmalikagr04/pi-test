@@ -1,0 +1,181 @@
+Device Address,Address Type,RSSI,Description,Value
+9c:95:6e:40:68:77,public,-35,Flags,06
+9c:95:6e:40:68:77,public,-35,16b Service Data,dafeff01
+9c:95:6e:40:68:77,public,-35,Complete Local Name,BM-000029
+2f:12:08:a3:27:32,random,-78,Manufacturer,060001092026f42c383e9b900b2e0044e7d900264cb79fab88b72141da
+53:33:30:7f:cf:14,random,-72,Flags,02
+53:33:30:7f:cf:14,random,-72,Manufacturer,7500021841b12f4e8304e091210c843d203bbdea2f441f9b31ef
+12:b4:7e:d3:b9:9f,random,-55,Manufacturer,060001092022ebc0c96c1ffc0925e487254cc5c2fbacc684f26d2be0d4
+6b:3b:6f:8f:86:d7,random,-74,Complete 16b Services,0000fef3-0000-1000-8000-00805f9b34fb
+6b:3b:6f:8f:86:d7,random,-74,16b Service Data,f3fe4a172334364b5011327ef5b677c85403157d9e400ffaabbb76ee44
+7c:d9:f4:02:3a:9c,public,-75,Flags,06
+7c:d9:f4:02:3a:9c,public,-75,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:02:3a:9c,public,-75,16b Service Data,aafe00daeabb60acd68055aa95660b57812b00550000
+d1:e3:b1:80:c0:ab,random,-57,Manufacturer,4c0012020000
+cf:64:ce:3b:2d:87,random,-90,Manufacturer,4c0012020003
+1f:f6:41:59:97:68,random,-80,Manufacturer,060001092022b063f7408644155a41720ec5e66e02332cd818d4540946
+cb:4e:fd:28:1f:e6,random,-58,Flags,02
+cb:4e:fd:28:1f:e6,random,-58,Complete Local Name,XTCALLPLUS_1FE6
+cb:4e:fd:28:1f:e6,random,-58,Manufacturer,cb4efd281fe6
+4c:12:42:2e:39:ea,random,-45,Flags,1a
+4c:12:42:2e:39:ea,random,-45,Tx Power,0c
+4c:12:42:2e:39:ea,random,-45,Manufacturer,4c001005461c9a199f
+7c:d9:f4:01:21:33,public,-73,Flags,06
+7c:d9:f4:01:21:33,public,-73,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:01:21:33,public,-73,Manufacturer,9a08018059
+7c:d9:f4:01:21:33,public,-73,16b Service Data,aafe00deff1370832c8455aaaabe1a2ed72e00550000
+7c:d9:f4:01:21:33,public,-73,Complete Local Name,IW19
+fd:9c:1a:a5:39:6a,random,-64,Manufacturer,4c0012020000
+46:4b:50:0e:4b:2d,random,-72,Flags,1a
+46:4b:50:0e:4b:2d,random,-72,Tx Power,0c
+46:4b:50:0e:4b:2d,random,-72,Manufacturer,4c001007301f2c088de738
+7c:d9:f4:03:bb:c6,public,-74,Flags,06
+7c:d9:f4:03:bb:c6,public,-74,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:03:bb:c6,public,-74,16b Service Data,aafe00da14bc7074868d55aabf661b1f313800550000
+7c:d9:f4:02:3b:fb,public,-82,Flags,06
+7c:d9:f4:02:3b:fb,public,-82,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:02:3b:fb,public,-82,16b Service Data,aafe00daefe37f74868d55aa9a8e2a1f313800550000
+71:06:34:aa:9e:f4,random,-74,Flags,1a
+71:06:34:aa:9e:f4,random,-74,Manufacturer,4c00090813030ac2a8b41b581608003c7cf428df5e93
+eb:5d:b1:8f:e2:1a,random,-57,Manufacturer,4c0012020002
+7d:32:92:d1:21:6b,random,-89,Manufacturer,0600010920026c1133eb0ebd8006a2afb028e3913de5fb5726a334d9f7
+7a:02:ec:b2:ea:34,random,-74,Flags,1a
+7a:02:ec:b2:ea:34,random,-74,Tx Power,0c
+7a:02:ec:b2:ea:34,random,-74,Manufacturer,4c0010064f1dbff59c58
+e5:61:fb:51:4f:cb,random,-67,Manufacturer,4c0012020000
+5b:89:29:51:d4:be,random,-78,Flags,1a
+5b:89:29:51:d4:be,random,-78,Manufacturer,4c00160800c5627ab48dd33f
+7c:d9:f4:03:6d:0f,public,-75,Flags,06
+7c:d9:f4:03:6d:0f,public,-75,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:03:6d:0f,public,-75,Manufacturer,9a0801806a
+7c:d9:f4:03:6d:0f,public,-75,16b Service Data,aafe00da2cecff6ea38255aad796aa194e2d00550000
+7c:d9:f4:03:6d:0f,public,-75,Complete Local Name,IW139
+69:0a:51:2c:2f:cc,random,-48,Flags,1a
+69:0a:51:2c:2f:cc,random,-48,Manufacturer,4c00090813030ac2a9641b581608000cc03630a21189
+3a:eb:2a:36:f6:87,random,-62,Flags,1a
+3a:eb:2a:36:f6:87,random,-62,Manufacturer,4c000906032fc0a8012d
+4a:d9:f9:5a:2c:cd,random,-47,Flags,1a
+4a:d9:f9:5a:2c:cd,random,-47,Tx Power,0c
+4a:d9:f9:5a:2c:cd,random,-47,Manufacturer,4c0010054718e45183
+7c:d9:f4:03:99:bd,public,-78,Flags,06
+7c:d9:f4:03:99:bd,public,-78,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:03:99:bd,public,-78,16b Service Data,aafe00da0b6cef822c8455aab6169a2dd72e00550000
+7c:d9:f4:02:4b:95,public,-77,Flags,06
+7c:d9:f4:02:4b:95,public,-77,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:02:4b:95,public,-77,16b Service Data,aafe00da0584ef1048b955aab02e9abbf36300550000
+54:11:a1:68:07:f3,random,-86,Flags,1a
+54:11:a1:68:07:f3,random,-86,Manufacturer,4c00160800e3931def8ed8cc
+7c:d9:f4:00:c0:04,public,-77,Flags,06
+7c:d9:f4:00:c0:04,public,-77,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:00:c0:04,public,-77,16b Service Data,aafe00da35f47f74868d55aae09e2a1f313800550000
+cb:e6:2e:cd:44:c6,public,-82,Flags,02
+cb:e6:2e:cd:44:c6,public,-82,Manufacturer,eff0cbe62ecd44c6
+cb:e6:2e:cd:44:c6,public,-82,128b Service Solicitation,d0002d121e4b0fa4994eceb531f40579
+cb:e6:2e:cd:44:c6,public,-82,16b Service Data,eafe44324203040011
+cb:e6:2e:cd:44:c6,public,-82,Complete Local Name,FireBoltt 105
+7c:d9:f4:02:04:4e,public,-76,Flags,06
+7c:d9:f4:02:04:4e,public,-76,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:02:04:4e,public,-76,16b Service Data,aafe00dae9d3ef1048b955aa947e9abbf36300550000
+7c:d9:f4:03:2e:88,public,-79,Flags,06
+7c:d9:f4:03:2e:88,public,-79,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:03:2e:88,public,-79,16b Service Data,aafe00da0ca8e06ea38255aab7528b194e2d00550000
+4a:ff:8b:e7:11:43,random,-82,Complete 16b Services,0000fef3-0000-1000-8000-00805f9b34fb
+4a:ff:8b:e7:11:43,random,-82,16b Service Data,f3fe4a17233958304f1132cf93795f3f9d64d425dd79bd08b02f3bb390
+fa:61:2e:65:0a:30,public,-70,Flags,06
+fa:61:2e:65:0a:30,public,-70,Manufacturer,eff0fa612e650a30
+fa:61:2e:65:0a:30,public,-70,128b Service Solicitation,d0002d121e4b0fa4994eceb531f40579
+fa:61:2e:65:0a:30,public,-70,16b Service Data,eafe42494904010094
+fa:61:2e:65:0a:30,public,-70,Complete Local Name,FB BSW053
+7c:d9:f4:01:28:b7,public,-72,Flags,06
+7c:d9:f4:01:28:b7,public,-72,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:01:28:b7,public,-72,16b Service Data,aafe00da07c0ff6ea38255aab26aaa194e2d00550000
+7c:d9:f4:01:c0:8c,public,-73,Flags,06
+7c:d9:f4:01:c0:8c,public,-73,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:01:c0:8c,public,-73,16b Service Data,aafe00da24c8ff6ea38255aacf72aa194e2d00550000
+61:bc:8f:16:92:f3,random,-56,Flags,1a
+61:bc:8f:16:92:f3,random,-56,Tx Power,0c
+61:bc:8f:16:92:f3,random,-56,Manufacturer,4c001005121c438e5b
+79:39:b6:11:1e:1e,random,-57,Flags,1a
+79:39:b6:11:1e:1e,random,-57,Tx Power,0c
+79:39:b6:11:1e:1e,random,-57,Manufacturer,4c0010054718e45183
+65:0a:26:f9:b8:1a,random,-58,Flags,1a
+65:0a:26:f9:b8:1a,random,-58,Tx Power,fa
+65:0a:26:f9:b8:1a,random,-58,Manufacturer,4c0010060b196027f158
+52:0b:09:c4:0d:17,random,-88,Flags,1a
+52:0b:09:c4:0d:17,random,-88,Tx Power,0c
+52:0b:09:c4:0d:17,random,-88,Manufacturer,4c0010053f1834f21f
+de:1b:e0:76:59:6f,random,-78,Manufacturer,4c0012020002
+f9:06:41:cd:ea:52,random,-77,Manufacturer,4c0012020001
+2a:39:22:04:d2:41,random,-78,Manufacturer,060001092022cf991c1f4fc97734e829ddf31861567bdfbf6ff82a5939
+56:6c:9c:b6:9f:30,random,-57,Complete 16b Services,0000fef3-0000-1000-8000-00805f9b34fb
+56:6c:9c:b6:9f:30,random,-57,16b Service Data,f3fe4a1723515358451134b50575efcf688358c7aa18915690e7e2bbe9
+6f:b3:fd:16:03:dd,random,-56,Complete 16b Services,0000fe9f-0000-1000-8000-00805f9b34fb
+6f:b3:fd:16:03:dd,random,-56,16b Service Data,9ffe0000000000000000000000000000000000000000
+6f:b3:fd:16:03:dd,random,-56,Manufacturer,e000892cca969468
+61:22:45:95:60:3b,random,-73,Flags,1a
+61:22:45:95:60:3b,random,-73,Manufacturer,4c001608007706c9c2240469
+15:38:e7:8e:c1:d8,random,-62,Manufacturer,0600010920227ddca75690b571978f41f4d597c1713b52c41325fcfe2d
+c4:66:ac:f9:b1:06,random,-82,Manufacturer,4c0012020000
+66:f0:8e:0f:27:be,random,-72,Flags,02
+66:f0:8e:0f:27:be,random,-72,Complete 128b Services,3e1d50cd-7e3e-427d-8e1c-b78aa87fe624
+08:8f:6c:c2:54:51,random,-75,Manufacturer,0600010f2022eb80fae09fbaddd8c209502833eb8aae448ee7eda437d4
+68:90:33:c8:5f:23,random,-69,Flags,1a
+68:90:33:c8:5f:23,random,-69,Tx Power,0c
+68:90:33:c8:5f:23,random,-69,Manufacturer,4c0010067b1eff4be979
+58:97:a7:95:d6:0d,random,-50,Flags,1a
+58:97:a7:95:d6:0d,random,-50,Tx Power,07
+58:97:a7:95:d6:0d,random,-50,Manufacturer,4c0010063b1e5849da07
+f1:b6:10:c2:cc:a6,random,-67,Manufacturer,4c0012026e030711063b6cc2fbd493092c8bf7f95542fcd4f1
+7c:d9:f4:03:f3:b5,public,-46,Flags,06
+7c:d9:f4:03:f3:b5,public,-46,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:03:f3:b5,public,-46,16b Service Data,aafe00dad1e3df1048b955aa7c8e8abbf36300550000
+7c:d9:f4:01:c3:2e,public,-92,Flags,06
+7c:d9:f4:01:c3:2e,public,-92,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:01:c3:2e,public,-92,Manufacturer,9a08018065
+7c:d9:f4:01:c3:2e,public,-92,16b Service Data,aafe00da06a0e06ea38255aab14a8b194e2d00550000
+7c:d9:f4:01:c3:2e,public,-92,Complete Local Name,IW143
+77:d3:d6:bc:80:58,random,-60,Flags,1a
+77:d3:d6:bc:80:58,random,-60,Tx Power,fa
+77:d3:d6:bc:80:58,random,-60,Manufacturer,4c0010060b196027f158
+7e:42:46:e3:3b:e5,random,-48,Flags,1a
+7e:42:46:e3:3b:e5,random,-48,Manufacturer,4c000908136c0ac2b15a1b5816080047a4a0616364c1
+7c:d9:f4:00:8f:09,public,-54,Flags,06
+7c:d9:f4:00:8f:09,public,-54,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:00:8f:09,public,-54,16b Service Data,aafe00da1aa4ff6ea38255aac54eaa194e2d00550000
+77:77:f6:54:14:dc,random,-49,Flags,1a
+77:77:f6:54:14:dc,random,-49,Manufacturer,4c0016080060894ba0c88bde
+4a:2c:eb:32:95:87,random,-65,Flags,1a
+4a:2c:eb:32:95:87,random,-65,Manufacturer,4c001608000ca24bc1e55212
+61:d0:ab:a4:38:e9,random,-49,Flags,1a
+61:d0:ab:a4:38:e9,random,-49,Manufacturer,4c00160800ed367fb8eef7d3
+7d:06:40:ee:50:56,random,-78,Flags,1a
+7d:06:40:ee:50:56,random,-78,Tx Power,07
+7d:06:40:ee:50:56,random,-78,Manufacturer,4c001005341cbe5592
+0e:56:56:3d:3b:c9,random,-78,Manufacturer,060001092002136dc28a7dffdea7e47ef0d300ba9372f7482bc0ffd159
+40:f3:a7:63:c7:7f,random,-57,Flags,1a
+40:f3:a7:63:c7:7f,random,-57,Tx Power,0b
+40:f3:a7:63:c7:7f,random,-57,Manufacturer,4c001006351a39eb8c3c
+7c:d9:f4:01:28:5a,public,-89,Flags,06
+7c:d9:f4:01:28:5a,public,-89,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:01:28:5a,public,-89,Manufacturer,9a08018067
+7c:d9:f4:01:28:5a,public,-89,16b Service Data,aafe00da187c7074868d55aac3261b1f313800550000
+7c:d9:f4:01:28:5a,public,-89,Complete Local Name,IW354
+7c:d9:f4:04:05:71,public,-80,Flags,06
+7c:d9:f4:04:05:71,public,-80,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:04:05:71,public,-80,16b Service Data,aafe00da1a607facd68055aac50a2a57812b00550000
+2a:a8:b6:0e:e0:49,random,-88,Manufacturer,060001092022a6106e740611f5c06ba31936135c7ead59d79f3438d3ee
+44:05:8f:09:c4:95,random,-67,Flags,1a
+44:05:8f:09:c4:95,random,-67,Tx Power,09
+44:05:8f:09:c4:95,random,-67,Manufacturer,4c0010050998b5cc78
+cc:6a:f4:0b:a6:e1,random,-81,Manufacturer,4c0012020003
+43:19:bf:31:16:1b,random,-46,Flags,1a
+43:19:bf:31:16:1b,random,-46,Tx Power,0c
+43:19:bf:31:16:1b,random,-46,Manufacturer,4c001005461c9a199f
+de:d0:e8:d0:f3:88,random,-61,Manufacturer,4c0012020003
+fa:03:ad:08:44:59,random,-49,Manufacturer,4c0012020000
+7c:d9:f4:01:e9:3f,public,-77,Flags,06
+7c:d9:f4:01:e9:3f,public,-77,Complete 16b Services,0000feaa-0000-1000-8000-00805f9b34fb
+7c:d9:f4:01:e9:3f,public,-77,16b Service Data,aafe00dadb9f7facd68055aa864a2a57812b00550000
+78:c7:f0:fc:c1:6a,random,-59,Flags,1a
+78:c7:f0:fc:c1:6a,random,-59,Tx Power,0c
+78:c7:f0:fc:c1:6a,random,-59,Manufacturer,4c0010064f1dbff59c58
